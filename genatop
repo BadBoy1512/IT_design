@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<meta charset="utf-8">
+	<title>Проект</title>
+</head>
+<body>
+	<h2>
+		<form action="" method="" name='lek' class="forma">
+			<p><input type="text" name="1_lek" placeholder="Первое лекарство" ></p>
+			<p><input type="text" name="2_lek" placeholder="Второе лекарство" ></p>
+			<p><input type="submit" value="Проверить совместимость"></p>
+			<p>Вывод:<output name='result'>-</output></p>
+		</form>
+	</h2>
+<h1 style='color:green'>БЛАБЛАБЛАБЛАБАЛАБЛАБАЛАБЛАБЛАБЛАБ</h1>
+</body>
+</html>
